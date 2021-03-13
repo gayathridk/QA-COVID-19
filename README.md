@@ -9,4 +9,6 @@
 
 • The Question Answering System developed produced good results for diverse queries related to COVID-19.
 
+• The Question Answering System is developed on the from COVID-19 Open Research Dataset Challenge (CORD-19) available on Kaggle. Due to complexity of the dataset, a subset of the   dataset has been used to build the model. The dataset has four parts – Biorxiv, Comm_use, Noncomm_use and PMC. In this project, I have used only Biorxiv.csv file.
+
   ![image](https://user-images.githubusercontent.com/18213984/111026807-70b32b00-8412-11eb-91a8-6aff2bb86a56.png)
